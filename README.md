@@ -1,6 +1,6 @@
 # Circus
 
-<i>Drag ProjectA.html into browser window to check out!</i><br>
+<i>Drag ProjectB.html into browser window to check out!</i><br>
 
 <b>User’s Guide:</b>
 
